@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: AntiqueWhite;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 25px;
+    color: brown;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  input, select, button {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  input[type="checkbox"] {
+    width: auto;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #D2691E;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #A0522D;
+  }
+  
